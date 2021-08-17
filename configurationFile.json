@@ -1,6 +1,4 @@
 {
-    "csv": "tradesbyBinance.csv",
-    "coin": "KSM",
-    "pair": "USDT",
-    "operation": " BUY"
+    "csv": "tradesByBinance.csv",
+    "coin": "KSM"
 }
